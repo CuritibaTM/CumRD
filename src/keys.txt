@@ -1,0 +1,5 @@
+@ECHO OFF
+:: Put your key here
+:: Your can get in https://remotedesktop.google.com/headless
+:: Click on start - > Next - > Autorize - > Windows (Cmd)
+"%PROGRAMFILES(X86)%\Google\Chrome Remote Desktop\CurrentVersion\remoting_start_host.exe" --code="4/0AX4XfWiA0QxZLBsqNEHG6kYKcEJWw5HAN6LjzDSkhSBF2NlTS2RbL98wQnpkmC6WCextCQ" --redirect-url="https://remotedesktop.google.com/_/oauthredirect" --name=%COMPUTERNAME%
