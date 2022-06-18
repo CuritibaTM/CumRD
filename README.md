@@ -10,6 +10,7 @@ Now, click on Authorize & copy your Windows (CMD) keys
 ![](images/3.png)
 #### Keys .txt
 Start with @echo off and paste what you copied earlier (Windows CMD Keys)
+<br>
 **The key.txt file must ALWAYS be in the same directory as the CumRD, and NEVER give it a different name.**
 ```
 @echo off
