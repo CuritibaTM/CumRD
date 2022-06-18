@@ -1,6 +1,5 @@
 # CumRD
-A script to Auto-Configure Chrome RD on Windows 10
-<br>
+A script write in batch, to install && configure the chrome remote desktop
 You can download the .exe file on [releases](https://github.com/CuritibaTM/CumRD/releases) page.
 # Keys Setup
 Go to the CRD page [here](https://remotedesktop.google.com/headless)
